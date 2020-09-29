@@ -175,7 +175,7 @@
                             <div class="col-12 col-md-4">
                                 <div class="single-top-features d-flex align-items-center justify-content-center">
                                     <i class="icon-agenda-1"></i>
-                                    <h5>Online Courses</h5>
+                                    <h5>Online Survey</h5>
                                 </div>
                             </div>
                             <!-- Single Top Features -->
